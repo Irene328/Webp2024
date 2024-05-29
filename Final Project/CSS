@@ -1,0 +1,17 @@
+.container {
+  text-align: center;
+}
+
+.container button {
+  margin: 5px;
+}
+
+#game {
+  margin-top: 20px;
+}
+
+.playerChoice,
+.opponentChoice {
+  display: inline-block;
+  margin: 20px;
+}
